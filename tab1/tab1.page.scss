@@ -1,0 +1,30 @@
+ion-card {
+    background-color:rgb(187, 144, 139);
+    img {
+        width: 100%;
+    }
+}
+
+ion-card-title {
+    font-size: 28px;
+    color:black;
+    font-family: 'Source Sans Pro', sans-serif Regular 400;
+    padding-top: 5px;
+    text-align: center;
+}
+
+ion-card-header {
+    font-size: 20px;
+    color:  grey;   font-family: 'Source Sans Pro', sans-serif Black 900 italic;
+    padding-top: 5px;
+}
+
+ion-card-subtitle {
+    display: inline-block;
+}
+
+.date {
+    float:right;
+    text-align: right;
+    padding: 5px;
+}
